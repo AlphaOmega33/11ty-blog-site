@@ -1,10 +1,11 @@
 ---
-title: This is a test
+title: Car
 description: 'Test Description '
 author: Joel
 date: '2023-06-16T07:25:48+10:00'
 tags:
-  - post featured
+  - post
+  - featured
 image: /assets/blog/screenshot-2023-06-02-072212.png
 imageAlt: Car stuck
 ---
